@@ -2,6 +2,7 @@
     background-color: #3023CB;
     color: white;
     display: flex;
+    justify-content: space-around;
 }
 
 .imagem-cabeçalho{
