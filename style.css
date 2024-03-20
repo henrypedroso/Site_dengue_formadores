@@ -2,11 +2,13 @@
     margin: 0;
     padding: 0 ;
 }
+
 .cabecalho{
     background-color: #3023CB;
     color: white;
     display: flex;
     justify-content: space-around;
+    align-items: center;
 }
 
 .imagem-cabeçalho{
