@@ -29,4 +29,5 @@
 .corpo-ong{
     background-image: linear-gradient(#3023CB, #737373);
     color: white;
+    display: flex;
 }
