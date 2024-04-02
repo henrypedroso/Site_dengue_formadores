@@ -76,3 +76,8 @@ body{
 .rodape{
 background-color: blueviolet;
 }
+
+
+.rodape-imagem{
+    height: 60px;
+}
